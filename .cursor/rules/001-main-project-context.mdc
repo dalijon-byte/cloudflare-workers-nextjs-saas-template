@@ -3,13 +3,13 @@ description:
 globs:
 alwaysApply: true
 ---
-# Cloudflare Workers Next.js SaaS Template
+# Dali Saas - All-in SaaS Platform
 
-This is a comprehensive, production-ready Next.js SaaS template designed to run on Cloudflare Workers with OpenNext. It includes authentication, team management, billing, and other common SaaS features needed to launch a modern web application.
+This is a comprehensive, production-ready Next.js SaaS platform designed to run on Cloudflare Workers with OpenNext. It includes authentication, team management, billing, and other common SaaS features needed to launch a modern web application.
 
-**Live Demo**: [nextjs-saas-template.lubomirgeorgiev.com](mdc:https:/nextjs-saas-template.lubomirgeorgiev.com/sign-up)
+**Production URL**: [https://saas.softify.vip](mdc:https:/saas.softify.vip)
 
-**GitHub Repository**: [dali-saas](mdc:https:/github.com/LubomirGeorgiev/dali-saas)
+**GitHub Repository**: [cloudflare-workers-nextjs-saas-template](mdc:https:/github.com/dalijon-byte/cloudflare-workers-nextjs-saas-template.git)
 
 ## Key Capabilities
 
