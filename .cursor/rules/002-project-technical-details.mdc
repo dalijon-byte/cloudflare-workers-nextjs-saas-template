@@ -5,7 +5,7 @@ alwaysApply: true
 ---
 # Project Technical Details
 
-> **Note**: This project is based on an open source Next.js SaaS template for Cloudflare Workers. You can find the original template at: https://github.com/LubomirGeorgiev/cloudflare-workers-nextjs-saas-template
+> **Note**: This project is based on an open source Next.js SaaS template for Cloudflare Workers. You can find the original template at: https://github.com/LubomirGeorgiev/dali-saas
 
 ## Cloudflare Stack
 
