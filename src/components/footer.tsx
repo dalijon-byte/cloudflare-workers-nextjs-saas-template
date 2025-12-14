@@ -3,7 +3,6 @@ import { SiX as XIcon, SiGithub as GithubIcon } from '@icons-pack/react-simple-i
 import ThemeSwitch from "@/components/theme-switch";
 import { GITHUB_REPO_URL, SITE_NAME } from "@/constants";
 import { Button } from "./ui/button";
-import AgenticDevStudioLogo from "./agenticdev-studio-logo";
 import { getGithubStars } from "@/utils/stats";
 import { Suspense } from "react";
 import { StarIcon } from "@heroicons/react/24/solid";
