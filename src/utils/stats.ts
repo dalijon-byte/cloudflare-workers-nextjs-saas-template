@@ -35,7 +35,7 @@ export async function getGithubStars() {
     async () => {
       const response = await fetch(`https://api.github.com/repos/${owner}/${repo}`, {
         headers: {
-          "User-Agent": `dali-saas (${SITE_DOMAIN})`,
+          "User-Agent": `cloudflare-workers-nextjs-saas-template (${SITE_DOMAIN})`,
         },
       });
 
