@@ -30,7 +30,7 @@ jobs:
           cache: 'pnpm'
 
       - name: Install dependencies
-        run: pnpm install
+        run: pnpm install && pnpm run opennext:build
 
       - name: Set D1 environment variables
         id: set-d1-vars
